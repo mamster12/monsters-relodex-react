@@ -1,3 +1,10 @@
+A react app project originally created by by Andrei Neagoie, Yihua Zhang
+
+- this app uses basic principles of React
+
+resource used : google fonts
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
